@@ -1,0 +1,19 @@
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\publish\LPTtoUSB Converter.exe
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\publish\LPTtoUSB Converter.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\publish\LPTtoUSB Converter.deps.json
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\publish\LPTtoUSB Converter.runtimeconfig.json
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\publish\LPTtoUSB Converter.pdb
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\publish\Microsoft.Office.Interop.Word.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\publish\System.CodeDom.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\publish\System.IO.Ports.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\publish\System.Management.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\publish\System.Text.Encoding.CodePages.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\publish\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\publish\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\publish\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\publish\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\publish\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\publish\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\publish\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\publish\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\publish\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll

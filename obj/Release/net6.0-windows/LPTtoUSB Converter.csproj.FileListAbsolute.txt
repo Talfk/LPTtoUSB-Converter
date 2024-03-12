@@ -1,0 +1,34 @@
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\LPTtoUSB Converter.exe
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\LPTtoUSB Converter.deps.json
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\LPTtoUSB Converter.runtimeconfig.json
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\LPTtoUSB Converter.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\LPTtoUSB Converter.pdb
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\Microsoft.Office.Interop.Word.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\System.CodeDom.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\System.IO.Ports.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\System.Management.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\obj\Release\net6.0-windows\LPTtoUSB Converter.csproj.AssemblyReference.cache
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\obj\Release\net6.0-windows\LPTtoUSB_Converter.FilesMaker.resources
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\obj\Release\net6.0-windows\LPTtoUSB_Converter.Form1.resources
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\obj\Release\net6.0-windows\LPTtoUSB_Converter.Properties.Resources.resources
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\obj\Release\net6.0-windows\LPTtoUSB Converter.csproj.GenerateResource.cache
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\obj\Release\net6.0-windows\LPTtoUSB Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\obj\Release\net6.0-windows\LPTtoUSB Converter.AssemblyInfoInputs.cache
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\obj\Release\net6.0-windows\LPTtoUSB Converter.AssemblyInfo.cs
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\obj\Release\net6.0-windows\LPTtoUSB Converter.csproj.CoreCompileInputs.cache
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\obj\Release\net6.0-windows\LPTtoUSB Converter.csproj.CopyComplete
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\obj\Release\net6.0-windows\LPTtoUSB Converter.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\obj\Release\net6.0-windows\refint\LPTtoUSB Converter.dll
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\obj\Release\net6.0-windows\LPTtoUSB Converter.pdb
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\obj\Release\net6.0-windows\LPTtoUSB Converter.genruntimeconfig.cache
+C:\Users\TalFK\source\repos\LPTtoUSB Converter\LPTtoUSB Converter\obj\Release\net6.0-windows\ref\LPTtoUSB Converter.dll

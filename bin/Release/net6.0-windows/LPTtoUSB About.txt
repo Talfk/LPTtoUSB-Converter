@@ -1,0 +1,12 @@
+﻿LPTtoUSB Converter
+
+About:
+
+LPTtoUSB is a program that works in conjunction with the USBtoLPT Converter.
+Designed and manufactured by GAF1.
+
+Support:
+
+For any support inquiries or assistance, please contact us at:
+
+יא"א 22/הנדסה/אח"ת
