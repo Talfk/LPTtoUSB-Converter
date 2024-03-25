@@ -289,7 +289,7 @@ namespace LPTtoUSB_Converter
             //Closing the serial port
             serialPort.Close();
             // Update the UI label safely
-            UpdateStatusLabel("Disonnected");
+            UpdateStatusLabel("Disconnected");
 
 
             bool isPreview = true;
