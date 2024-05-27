@@ -2,7 +2,7 @@
 
 About:
 
-LPTtoUSB is a program that works in conjunction with the USBtoLPT Converter.
+LPTtoUSB is a program that works in conjunction with the LPTtoUSB Converter.
 Designed and manufactured by GAF1.
 
 Support:
